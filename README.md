@@ -1,4 +1,4 @@
-# Stuff
+# What to do before making
 
 make sure to do chmod 755
 7 makes it read, write and .exe
