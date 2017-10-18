@@ -1,5 +1,7 @@
 function {
 
+echo "running ($now)"
+
 #Port security
 
     ufw enable
