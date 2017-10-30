@@ -1,8 +1,0 @@
-#!bin/bash
-
-function {
-
-#media file
-find / -name '*.mp3' -type f -delete
-find / -name '*.mp4' -type f -delete
-find / -name '*.jpg' -type f -delete
